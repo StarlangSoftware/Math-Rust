@@ -1,0 +1,11 @@
+[package]
+name = "nlptoolkit-math"
+version = "0.0.1"
+edition = "2024"
+license = "	GPL-3.0-or-later"
+description = "Simple Math library"
+repository = "https://github.com/StarlangSoftware/Math-Rust"
+
+[dependencies]
+rand = "0.10"
+approx = "0.6.0-rc2"
